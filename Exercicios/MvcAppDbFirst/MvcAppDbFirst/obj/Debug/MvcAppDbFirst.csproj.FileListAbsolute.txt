@@ -1,0 +1,11 @@
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\MvcAppDbFirst.dll
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\MvcAppDbFirst.pdb
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\EntityFramework.dll
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\PagedList.dll
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\PagedList.Mvc.dll
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\EntityFramework.xml
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\PagedList.xml
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\bin\PagedList.Mvc.xml
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\obj\Debug\MvcAppDbFirst.dll
+C:\z_PROMPT\PROMPT\uc05\repos\PROMPT11-05-DataAccess.cmfaustino\Exercicios\MvcAppDbFirst\MvcAppDbFirst\obj\Debug\MvcAppDbFirst.pdb

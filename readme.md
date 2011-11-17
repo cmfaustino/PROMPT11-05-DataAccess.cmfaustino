@@ -1,4 +1,4 @@
-# PROMPT 2011 - Mo'dulo 4 - Desenvolvimento da Componente Cliente de Aplicacoes Web - Programacao para a Web 2 (Client Side)
+# PROMPT 2011 - Mo'dulo 5 - Plataformas e modelos de acesso a dados
 
 ## Repositorio de cmfaustino
 

@@ -1,0 +1,127 @@
+@model IEnumerable<MvcAppDbFirst.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+    <script src="@Url.Content("~/Scripts/custom_script.js")" type="text/javascript"></script> <!-- ALTERACAO: ADICIONADO -->
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            NameStyle
+        </th>
+        <th>
+            Title
+        </th>
+        <th>
+            FirstName
+        </th>
+        <th>
+            MiddleName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            Suffix
+        </th>
+        <th>
+            CompanyName
+        </th>
+        <th>
+            SalesPerson
+        </th>
+        <th>
+            EmailAddress
+        </th>
+        <th>
+            Phone
+        </th>
+        <th>
+            PasswordHash
+        </th>
+        <th>
+            PasswordSalt
+        </th>
+        <th>
+            rowguid
+        </th>
+        <th>
+            ModifiedDate
+        </th>
+        <th>
+            CustomerAddress
+        </th>
+        <th>
+            SalesOrderHeader
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CustomerID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CustomerID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CustomerID })
+        </td>
+        <td>
+			@item.NameStyle
+        </td>
+        <td>
+			@item.Title
+        </td>
+        <td>
+			@item.FirstName
+        </td>
+        <td>
+			@item.MiddleName
+        </td>
+        <td>
+			@item.LastName
+        </td>
+        <td>
+			@item.Suffix
+        </td>
+        <td>
+			@item.CompanyName
+        </td>
+        <td>
+			@item.SalesPerson
+        </td>
+        <td>
+			@item.EmailAddress
+        </td>
+        <td>
+			@item.Phone
+        </td>
+        <td>
+			@item.PasswordHash
+        </td>
+        <td>
+			@item.PasswordSalt
+        </td>
+        <td>
+			@item.rowguid
+        </td>
+        <td>
+			@String.Format("{0:g}", item.ModifiedDate)
+        </td>
+        <td>
+			@(item.CustomerAddress == null ? "None" : item.CustomerAddress.Count.ToString())
+        </td>
+        <td>
+			@(item.SalesOrderHeader == null ? "None" : item.SalesOrderHeader.Count.ToString())
+        </td>
+    </tr>
+}
+
+</table>
+
+

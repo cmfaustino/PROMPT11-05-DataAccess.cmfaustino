@@ -1,0 +1,70 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Models/f:Model1DbContext.Context.tt" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Models/f:Model1DbContext.cs" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Models/f:Customer.cs" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/f:Web.config" caret="223" fromTop="6" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Models/f:Product.cs" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Views/d:Home/f:About.cshtml" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Models/f:Model1.Designer.cs" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/f:Global.asax.cs" caret="1059" fromTop="9" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Models/f:Model1DbContext.Context.cs" caret="917" fromTop="9" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="387" fromTop="12" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Scripts/f:jquery-1.7.js" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Views/d:Shared/f:_Layout.cshtml" caret="185" fromTop="5" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Views/d:Customer/f:Index.cshtml" caret="90" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Scripts/f:custom_script.js" caret="287" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Models/f:Product.cs" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="549" fromTop="16" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="728" fromTop="15" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="1170" fromTop="14" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="1504" fromTop="12" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="2153" fromTop="15" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="2505" fromTop="17" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Controllers/f:CustomerController.cs" caret="417" fromTop="12" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Views/d:Shared/f:_Layout.cshtml" caret="935" fromTop="16" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/f:Global.asax.cs" caret="1059" fromTop="9" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Views/d:Customer/f:Index.cshtml" caret="146" fromTop="6" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Scripts/f:custom_script.js" caret="0" fromTop="0" />
+      <File id="9FABE10E-08C9-4C5E-8243-FBB307CD0DDB/d:Scripts/f:custom_script.js" caret="287" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Customer" priority="32" />
+      <Item value="Index" priority="32" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="$" priority="9" />
+      <Item value="function" priority="21" />
+      <Item value="MostraDetails" priority="21" />
+      <Item value="Function" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="click" priority="9" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

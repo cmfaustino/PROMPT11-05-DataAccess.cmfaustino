@@ -1,0 +1,26 @@
+@model BlogsDomainEFModelFirst.Comment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Comment</legend>
+
+    <div class="display-label">DateCreated</div>
+    <div class="display-field">@String.Format("{0:g}", Model.DateCreated)</div>
+
+    <div class="display-label">Content</div>
+    <div class="display-field">@Model.Content</div>
+
+    <div class="display-label">Post</div>
+    <div class="display-field">@(Model.Post == null ? "None" : Model.Post.Title)</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
